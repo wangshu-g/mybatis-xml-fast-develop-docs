@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmybatis_xml_fast_develop=self.webpackChunkmybatis_xml_fast_develop||[]).push([[2199],{8127:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/mybatis-xml-fast-develop-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
